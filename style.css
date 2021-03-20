@@ -27,6 +27,7 @@
 
 .color-white {
     color: white;
+    transition: 1s;
 }
 
 .bck-color-black {
